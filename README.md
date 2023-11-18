@@ -1,6 +1,8 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
-<h1 align="center">Hi 👋, I'm Munim Bin Muquith</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Munim+Bin+Muquith;"/>
+</h1>
+<h3 align="center">A passionate front-end developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munimovi23&label=Profile%20views&color=0e75b6&style=flat" alt="munimovi23" /> </p>
