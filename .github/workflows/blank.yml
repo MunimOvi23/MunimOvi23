@@ -22,8 +22,8 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v3
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
@@ -34,29 +34,19 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      name: generate github-contribution-grid-snake.svg
-on:
-  workflow_run:
-    workflows: ["Generate Snake"]
-    types:
-      - completed
-jobs:
-  run:
-    name: Generate Snake
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: MunimOvi23
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-        with:
-          github_user_name: MunimOvi23
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+# Adding the Generate Snake job
+generate-snake:
+  name: Generate Snake
+  runs-on: ubuntu-latest
+  steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Generate Snake
+      uses: Platane/snk@v3
+      with:
+        github_user_name: MunimOvi23
+        outputs: |
+          dist/github-contribution-grid-snake.svg
+          dist/github-contribution-grid-snake-dark.svg?palette=github-dark
