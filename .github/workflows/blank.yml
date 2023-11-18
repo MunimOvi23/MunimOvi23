@@ -34,23 +34,27 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      - name: Generate Snake
-
+      name: generate github-contribution-grid-snake.svg
 on:
-  push:
-    branches:
-      - main  # Adjust this if your default branch has a different name
-
+  workflow_run:
+    workflows: ["Generate Snake"]
+    types:
+      - completed
 jobs:
   run:
+    name: Generate Snake
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      
       - name: Generate Snake
         uses: Platane/snk@v3
+        with:
+          github_user_name: MunimOvi23
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
         with:
           github_user_name: MunimOvi23
           outputs: |
