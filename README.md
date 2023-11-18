@@ -35,19 +35,22 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munimovi23&" alt="munimovi23" /></p>
 
-        name: generate github-contribution-grid-snake.svg
+name: Generate Snake
+
 on:
   workflow_run:
     workflows: ["Generate Snake"]
     types:
       - completed
+
 jobs:
   run:
-    name: Generate Snake
     runs-on: ubuntu-latest
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+      
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
