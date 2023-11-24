@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munimovi23&show_icons=true&locale=en" alt="munimovi23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munimovi23&" alt="munimovi23" /></p>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/munimovi)](https://leetcode.com/munimovi)
