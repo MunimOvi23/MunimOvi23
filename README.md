@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munimovi23&label=Profile%20views&color=0e75b6&style=flat" alt="munimovi23" /> </p>
 
 - 🔭 I’m currently working on **DOM manipulation**
-
-- 🌱 I’m currently learning **React Js**
+  
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Front-End Web Development**
 
