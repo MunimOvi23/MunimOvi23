@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munimovi23&label=Profile%20views&color=0e75b6&style=flat" alt="munimovi23" /> </p>
 
-- 🔭 I’m currently working on **DOM manipulation**
+- 🔭 I’m currently working on **Role Based Authorization and Authentication**
   
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Firebase**
 
 - 💬 Ask me about **Front-End Web Development**
 
