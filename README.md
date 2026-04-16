@@ -1,8 +1,8 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Munim+Bin+Muquith;Full-Stack+QA+%26+Frontend+Developer;Building+Quality+Code" /></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Munim+Bin+Muquith;Full-Stack+QA;Frontend+Developer;Building+Quality+Code" /></div>
 
 <div align="center">
 
-**Application Analyst | QA Automation Engineer | Frontend Developer | Test Automation Enthusiast**
+**Application Analyst | QA Automation Engineer | Test Automation Enthusiast | Frontend Enthusiast **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munim-bin-muquith/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/munimovi23)
@@ -18,16 +18,16 @@ Based in Dhaka, Bangladesh | 2+ Years in QA & Development | Always Learning 🚀
 
 ## 👨‍💻 About Me
 
-I'm a passionate **QA Automation Specialist** and **Frontend Developer** with deep expertise in building robust test frameworks, automating repetitive QA processes, and creating beautiful user interfaces. My journey combines meticulous attention to quality with creative problem-solving.
+I'm a passionate **QA Automation Specialist** and **Frontend Enthusiast** with deep expertise in building robust test frameworks, automating repetitive QA processes, and creating beautiful user interfaces. My journey combines meticulous attention to quality with creative problem-solving.
 
 Currently transitioning into a dedicated **SQA Engineer role** with a focus on test automation, Python scripting, and API testing. I'm leveraging platforms like Anthropic Academy to deepen my technical skills while maintaining hands-on expertise in frontend development.
 
 ### What I Do:
-- 🧪 **Automated Testing**: Selenium, API testing (Postman), test frameworks
+- 🧪 **Automated Testing**: Playwright, Selenium, API testing (Postman), test frameworks
 - 🎨 **Frontend Development**: React, Tailwind CSS, Bootstrap, responsive design
 - 📊 **SQL Optimization**: Complex queries, performance tuning (Oracle, MySQL)
 - 🔍 **Quality Assurance**: Manual testing, test case design, automation strategy
-- 🛠️ **Tools & Automation**: CI/CD pipelines, data analysis, process automation
+- 🛠️ **Tools & Automation**: data analysis, process automation, CI/CD pipelines
 - 📚 **Continuous Learning**: Python, Firebase, advanced testing patterns
 
 ---
@@ -41,10 +41,10 @@ Currently transitioning into a dedicated **SQA Engineer role** with a focus on t
 │  ✅ Selenium WebDriver & Test Automation               │
 │  ✅ Python for QA Automation                           │
 │  ✅ API Testing & Postman Mastery                      │
-│  ✅ SQL Query Optimization & Performance Analysis       │
-│  🔄 Firebase Integration & Backend Testing              │
+│  ✅ SQL Query Optimization & Performance Analysis      │
+│  🔄 Firebase Integration & Backend Testing             │
 │  🔄 CI/CD Pipeline Automation                          │
-│  🔄 Advanced Test Framework Design                      │
+│  🔄 Advanced Test Framework Design                     │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -64,7 +64,7 @@ Currently transitioning into a dedicated **SQA Engineer role** with a focus on t
 | **Category** | **Skills** |
 |---|---|
 | **Test Frameworks** | Selenium WebDriver, Python unittest, API testing frameworks |
-| **Automation Tools** | Postman, Selenium IDE, REST Client |
+| **Automation Tools** | Postman, Playwright, Selenium IDE, REST Client, Jira |
 | **Languages** | Python, JavaScript, Java |
 | **API Testing** | REST APIs, HTTP requests, payload validation, response parsing |
 | **Database Testing** | Oracle SQL, MySQL, complex query validation |
@@ -78,7 +78,7 @@ Currently transitioning into a dedicated **SQA Engineer role** with a focus on t
 | **Category** | **Skills** |
 |---|---|
 | **Languages** | HTML5, CSS3, JavaScript (ES6+) |
-| **Frameworks** | React.js, Redux |
+| **Frameworks** | React.js, React Router, Redux |
 | **Styling** | Tailwind CSS, Bootstrap, responsive design |
 | **Tools** | Figma, Git, npm, webpack |
 | **Features** | Role-based authentication, dynamic UI, state management |
@@ -91,7 +91,7 @@ Currently transitioning into a dedicated **SQA Engineer role** with a focus on t
 | **Category** | **Skills** |
 |---|---|
 | **Databases** | Oracle, MySQL, MariaDB, SQL optimization |
-| **Backend** | PHP, Node.js basics, Firebase |
+| **Backend** | Node.js basics, Firebase, PHP, |
 | **Data Analysis** | Pandas, SQL analytics, transaction reporting |
 | **Other** | Linux, command line, CI/CD basics |
 
@@ -114,12 +114,14 @@ Currently transitioning into a dedicated **SQA Engineer role** with a focus on t
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-9F7AEA?style=flat&logo=playwright&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -131,6 +133,7 @@ Currently transitioning into a dedicated **SQA Engineer role** with a focus on t
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 </div>
 
@@ -184,7 +187,7 @@ Currently transitioning into a dedicated **SQA Engineer role** with a focus on t
 
 ---
 
-## 🚀 Why Hire Me?
+## ⚡ What Makes Me Stand Out
 
 ✅ **Dual Expertise**: Unique combination of QA automation and frontend development  
 ✅ **Problem Solver**: Experience with complex SQL optimization and debugging  
@@ -227,18 +230,8 @@ I'm always open to discussing:
 
 <div align="center">
 
-### 📈 Where I'm Headed
-
-```
-Current: Application Analyst
-    ↓
-Goal: Senior QA Automation Engineer
-    ↓
-Vision: Test Architect / QA Manager
-```
-
 **Status:** 🔄 In transition | Building portfolio | Leveling up skills
 
-Made with ❤️ in Bangladesh | Last updated: April 2026
+🇧🇩 Dhaka-Based | Quality-First | Always Growing | Last pushed: April 2026
 
 </div>
